@@ -16,3 +16,5 @@ Tworzenie branchy i merge
 
 Porównywanie zmian za pomocą git diff
 
+Notatka kolegi: przygotowanie danych do trenowania modelu.
+
