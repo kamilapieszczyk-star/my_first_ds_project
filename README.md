@@ -2,7 +2,7 @@
 
 ## Cel projektu
 
-Nauka analizy zachowań klientów.
+Nauka analizy klientów i ich segmentacji.
 
 ## Aktualizacja przez GitHub
 
