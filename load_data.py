@@ -1,0 +1,1 @@
+# Funkcja do wczytywania danych 
