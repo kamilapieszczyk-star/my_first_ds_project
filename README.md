@@ -2,7 +2,7 @@
 
 ## Cel projektu
 
-Nauka podstaw Git i kontroli wersji w Data Science.
+Nauka analizy zachowań klientów.
 
 ## Aktualizacja przez GitHub
 
